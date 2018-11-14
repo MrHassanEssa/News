@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_preference_entries">
+        <item>@string/pref_bbc_news_title</item>
+        <item>@string/pref_bbc_sport_title</item>
+        <item>@string/pref_cnn_title</item>
+    </string-array>
+    <string-array name="list_preference_entry_values">
+        <item>@string/pref_bbc_news_value</item>
+        <item>@string/pref_bbc_sport_value</item>
+        <item>@string/pref_cnn_value</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:entries="@array/list_preference_entries"
+        android:entryValues="@array/list_preference_entry_values"
+        android:title="Source"
+        android:defaultValue="@string/pref_bbc_news_value"
+        android:key="@string/pref_source_key" />
+</PreferenceScreen>
